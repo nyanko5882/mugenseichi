@@ -1,5 +1,4 @@
-# mugenseichi
-# Modpack for Beginners of Flattening / 整地初心者向けModpack
+# Mugenseichi - Modpack for Beginners of Flattening / 整地初心者向けModpack
 
 ## 特徴 / Features
 整地初心者のためのModpackです。  
